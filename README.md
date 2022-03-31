@@ -1,6 +1,6 @@
 # Surfs-Up
 
-SURFS-UP
+SURFS-UP module
 
 PROJECT SUMMARY & BACKGROUND:
 
